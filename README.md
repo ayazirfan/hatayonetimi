@@ -1,0 +1,2 @@
+# hatayonetimi
+odev
